@@ -4,16 +4,17 @@
 }
 
 body {
-  background-color: #f6f8fc;
+  background: linear-gradient(to bottom, #99ccff 0%, #cc99ff 100%);
+  padding: 2rem;
 }
 
 .content {
   /* width: 100vw; */
   /* height: 100vh; */
-  /* max-width: 320px;
-  min-width: 240px; */
   padding: 1rem;
-  background-color: #fff;
+  background-color: #f6e7e7;
   margin: 1rem auto;
   /* max-width: 1000px; */
+  border-radius: 1rem;
+  border: 1px solid #3b5b9b;
 }

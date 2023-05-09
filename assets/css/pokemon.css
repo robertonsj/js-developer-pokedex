@@ -4,6 +4,14 @@
   margin: 0.5rem;
   padding: 1rem;
   border-radius: 1rem;
+
+  box-shadow: 10px 8px 6px #92846b;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.pokemon:hover {
+  opacity: 0.7;
 }
 
 .pokemon .number {
